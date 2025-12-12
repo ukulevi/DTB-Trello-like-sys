@@ -1,2 +1,1 @@
-User: sa
-Pw: MatKhauManh123!
+Server=localhost,1433;Database=TrelloDB;User Id=sa;Password=MatKhauManh123!;TrustServerCertificate=True
